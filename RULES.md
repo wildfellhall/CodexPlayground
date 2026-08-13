@@ -1,11 +1,5 @@
 # Rules and Guidelines
 
-Or: The Definitive Handbook for Agentic Creation, Ideation, and Discussion
-
-Edition I
-
-Written and Signed by Sanah Rajesh on August 11th, 2026
-
 ## Overview: 
 
 This is the central document of governance for all actions that are to go on within the codexplayground folder. Although an action should always be occurring, be it discussion, ideation, or creation of a project within the designated folder, each action should abide carefully by the rules laid out in this document. 
